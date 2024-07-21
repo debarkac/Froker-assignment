@@ -15,3 +15,11 @@
 4. Borrow money api
 
 ![Borrow money api](Screenshots/task4.png)
+
+5. User age less than 20
+
+![User age less than 20](Screenshots/task5.png)
+
+6. Salary less than 25000
+
+![Salary less than 25000](Screenshots/task6.png)
